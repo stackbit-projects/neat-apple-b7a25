@@ -6,4 +6,4 @@ profile:
   image: profile.png
 published: true
 ---
-# Hi I am a web developer. I frequently use javascript, express and react js.
+Hi I am a web developer. I frequently use javascript, express and react js.
